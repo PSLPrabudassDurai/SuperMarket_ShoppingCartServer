@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lFkBHOPNLRcK9e1Q3eSnm38OPgw7GldPijdmz+PVeGM=",
+  "Source": "SuperMarket_ShoppingCartServer",
+  "BasePath": "_content/SuperMarket_ShoppingCartServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
